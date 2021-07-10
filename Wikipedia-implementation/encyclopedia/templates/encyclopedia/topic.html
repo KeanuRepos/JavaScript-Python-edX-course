@@ -1,0 +1,9 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block body %}
+    <h1>hello<h1>
+
+    <form action="{% url 'entries:wiki/css' %}" method="post">
+        {{ entry }}
+    </form>
+{% endblock %}
