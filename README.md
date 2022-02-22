@@ -1,5 +1,5 @@
 # JavaScript-Python-edX-course
-This repository contains a list of programs, that i have completed, in the
+This repository contains a list of programs that i worked on in the
 CS50's Web Programming with Python and JavaScript, edX course.
 
 ### Live program demos
